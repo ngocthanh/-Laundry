@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivityFragment"
+    android:orientation="vertical">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <Button
+            style="@style/BTN_SIZE"
+            android:text="M"
+            android:id="@+id/account_btn"
+            android:paddingLeft="5dp"
+            android:layout_gravity="left"/>
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="horizontal" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal">
+                <Button
+                    style="@style/BTN_SIZE"
+                    android:text="D"
+                    android:id="@+id/dry_btn" />
+
+
+                <Button
+                    style="@style/BTN_SIZE"
+                    android:text="W"
+                    android:id="@+id/wet_btn" />
+
+                <Button
+                    style="@style/BTN_SIZE"
+                    android:text="I"
+                    android:id="@+id/iron_btn" />
+        </LinearLayout>
+        <Button
+            style="@style/BTN_SIZE"
+            android:text="C"
+            android:id="@+id/cart_btn"
+            android:paddingRight="5dp"
+            android:layout_gravity="right"/>
+    </LinearLayout>
+    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

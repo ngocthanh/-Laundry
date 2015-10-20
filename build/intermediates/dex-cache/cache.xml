@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ngoc Thanh\AndroidStudioProjects\Laundry\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Ngoc Thanh\AndroidStudioProjects\Laundry\app\build\intermediates\pre-dexed\debug\classes-5d39d480ac0dd2985b4ddd6a80e106e65001c723.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ngoc Thanh\AndroidStudioProjects\Laundry\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Ngoc Thanh\AndroidStudioProjects\Laundry\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-b866ee6ce93fecfeeb0bad733d15299d91f5991f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ngoc Thanh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Ngoc Thanh\AndroidStudioProjects\Laundry\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-9d32f0912ce18f7e551774bfad2dd987f3f6a6d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ngoc Thanh\AndroidStudioProjects\Laundry\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Ngoc Thanh\AndroidStudioProjects\Laundry\app\build\intermediates\pre-dexed\debug\classes-71071ca608cb5a89f11f5b3a4b997134879d618b.jar" />
+    </item>
+
+</items>
